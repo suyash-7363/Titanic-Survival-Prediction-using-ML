@@ -3,6 +3,8 @@
 An interactive Streamlit app that predicts whether a Titanic passenger
 survived, comparing **Decision Tree, Random Forest, Naive Bayes, and KNN**.
 
+**🔗 Live App:** [Click here to try the app](https://titanic-survival-prediction-using-ml-2dtfz5bud3evbspqk5f8bv.streamlit.app/)  
+
 ## How to run
 ```bash
 pip install -r requirements.txt
